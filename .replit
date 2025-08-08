@@ -1,0 +1,36 @@
+modules = ["php", "php-8.2"]
+
+[nix]
+channel = "stable-25_05"
+
+[workflows]
+runButton = "Project"
+
+[[workflows.workflow]]
+name = "Project"
+mode = "parallel"
+author = "agent"
+
+[[workflows.workflow.tasks]]
+task = "workflow.run"
+args = "VAX Scraper"
+
+[[workflows.workflow.tasks]]
+task = "workflow.run"
+args = "php_scraper"
+
+[[workflows.workflow]]
+name = "VAX Scraper"
+author = "agent"
+
+[[workflows.workflow.tasks]]
+task = "shell.exec"
+args = "php vax_scraper.php"
+
+[[workflows.workflow]]
+name = "php_scraper"
+author = "agent"
+
+[[workflows.workflow.tasks]]
+task = "shell.exec"
+args = "php vax_scraper.php"

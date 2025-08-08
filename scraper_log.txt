@@ -1,0 +1,568 @@
+[2025-08-01 00:00:00] VAX Scraper Log File
+[2025-08-01 00:00:00] This file will contain detailed logging information during scraping operations
+[2025-08-01 00:00:00] ================================================================================
+[2025-08-01 16:21:37] VAX Scraper initialized
+[2025-08-01 16:21:37] Attempting to login to VAX system...
+[2025-08-01 16:21:38] HTTP error 401 for URL: https://b2b.waks.pl/security/login
+[2025-08-01 16:21:40] HTTP error 401 for URL: https://b2b.waks.pl/security/login
+[2025-08-01 16:21:43] HTTP error 401 for URL: https://b2b.waks.pl/security/login
+[2025-08-01 16:21:43] Login failed: HTTP error 401
+[2025-08-01 16:21:43] FATAL ERROR: Failed to login to VAX system
+[2025-08-01 16:22:40] VAX Scraper initialized
+[2025-08-01 16:22:40] Attempting to login to VAX system...
+[2025-08-01 16:22:41] Login page loaded, looking for form structure...
+[2025-08-01 16:22:41] Submitting login form with email: fx@fx-electronics.pl
+[2025-08-01 16:22:42] Login failed: Login status unclear - please check credentials
+[2025-08-01 16:22:42] FATAL ERROR: Failed to login to VAX system
+[2025-08-01 16:23:19] VAX Scraper initialized
+[2025-08-01 16:23:19] Attempting to login to VAX system...
+[2025-08-01 16:23:20] Login page loaded, looking for form structure...
+[2025-08-01 16:23:20] Submitting login form with email: fx@fx-electronics.pl
+[2025-08-01 16:23:21] Successfully logged in to VAX system
+[2025-08-01 16:23:21] Starting to scrape products from category 1395
+[2025-08-01 16:23:22] Extracted 0 products from current page
+[2025-08-01 16:23:22] Found 1 total pages to scrape
+[2025-08-01 16:23:22] Completed scraping. Total products found: 0
+[2025-08-01 16:25:38] VAX Scraper initialized
+[2025-08-01 16:25:38] Attempting to login to VAX system...
+[2025-08-01 16:25:39] Login page loaded, looking for form structure...
+[2025-08-01 16:25:39] Submitting login form with email: fx@fx-electronics.pl
+[2025-08-01 16:25:40] Successfully logged in to VAX system
+[2025-08-01 16:25:40] Starting to scrape products from category 1395
+[2025-08-01 16:25:40] Found 1 rows using selector: //tbody//tr[td]
+[2025-08-01 16:25:40] Extracted 0 products from current page
+[2025-08-01 16:25:40] Found 1 total pages to scrape
+[2025-08-01 16:25:40] Completed scraping. Total products found: 0
+[2025-08-01 16:25:40] Starting to scrape products from category 1
+[2025-08-01 16:25:41] HTTP error 404 for URL: https://b2b.waks.pl/product/list/page/1?productcategoryid=1
+[2025-08-01 16:25:43] HTTP error 404 for URL: https://b2b.waks.pl/product/list/page/1?productcategoryid=1
+[2025-08-01 16:25:45] HTTP error 404 for URL: https://b2b.waks.pl/product/list/page/1?productcategoryid=1
+[2025-08-01 16:25:45] Starting to scrape products from category 2
+[2025-08-01 16:25:46] HTTP error 404 for URL: https://b2b.waks.pl/product/list/page/1?productcategoryid=2
+[2025-08-01 16:25:48] HTTP error 404 for URL: https://b2b.waks.pl/product/list/page/1?productcategoryid=2
+[2025-08-01 16:25:50] HTTP error 404 for URL: https://b2b.waks.pl/product/list/page/1?productcategoryid=2
+[2025-08-01 16:25:50] Starting to scrape products from category 3
+[2025-08-01 16:25:50] HTTP error 404 for URL: https://b2b.waks.pl/product/list/page/1?productcategoryid=3
+[2025-08-01 16:25:53] HTTP error 404 for URL: https://b2b.waks.pl/product/list/page/1?productcategoryid=3
+[2025-08-01 16:25:55] HTTP error 404 for URL: https://b2b.waks.pl/product/list/page/1?productcategoryid=3
+[2025-08-01 16:25:55] Starting to scrape products from category 5
+[2025-08-01 16:25:55] HTTP error 404 for URL: https://b2b.waks.pl/product/list/page/1?productcategoryid=5
+[2025-08-01 16:25:57] HTTP error 404 for URL: https://b2b.waks.pl/product/list/page/1?productcategoryid=5
+[2025-08-01 16:26:00] HTTP error 404 for URL: https://b2b.waks.pl/product/list/page/1?productcategoryid=5
+[2025-08-01 16:26:00] Starting to scrape products from category 10
+[2025-08-01 16:26:00] HTTP error 404 for URL: https://b2b.waks.pl/product/list/page/1?productcategoryid=10
+[2025-08-01 16:26:02] HTTP error 404 for URL: https://b2b.waks.pl/product/list/page/1?productcategoryid=10
+[2025-08-01 16:26:04] HTTP error 404 for URL: https://b2b.waks.pl/product/list/page/1?productcategoryid=10
+[2025-08-01 16:26:04] Starting to scrape products from category 20
+[2025-08-01 16:26:05] HTTP error 404 for URL: https://b2b.waks.pl/product/list/page/1?productcategoryid=20
+[2025-08-01 16:26:07] HTTP error 404 for URL: https://b2b.waks.pl/product/list/page/1?productcategoryid=20
+[2025-08-01 16:26:09] HTTP error 404 for URL: https://b2b.waks.pl/product/list/page/1?productcategoryid=20
+[2025-08-01 16:26:09] Starting to scrape products from category 50
+[2025-08-01 16:26:09] HTTP error 404 for URL: https://b2b.waks.pl/product/list/page/1?productcategoryid=50
+[2025-08-01 16:26:12] HTTP error 404 for URL: https://b2b.waks.pl/product/list/page/1?productcategoryid=50
+[2025-08-01 16:26:14] HTTP error 404 for URL: https://b2b.waks.pl/product/list/page/1?productcategoryid=50
+[2025-08-01 16:26:14] Starting to scrape products from category 100
+[2025-08-01 16:26:14] HTTP error 404 for URL: https://b2b.waks.pl/product/list/page/1?productcategoryid=100
+[2025-08-01 16:26:16] HTTP error 404 for URL: https://b2b.waks.pl/product/list/page/1?productcategoryid=100
+[2025-08-01 16:26:19] HTTP error 404 for URL: https://b2b.waks.pl/product/list/page/1?productcategoryid=100
+[2025-08-01 16:28:14] VAX Scraper initialized
+[2025-08-01 16:28:14] Attempting to login to VAX system...
+[2025-08-01 16:28:14] Login page loaded, looking for form structure...
+[2025-08-01 16:28:14] Submitting login form with email: fx@fx-electronics.pl
+[2025-08-01 16:28:15] Successfully logged in to VAX system
+[2025-08-01 16:28:15] Starting to scrape products from category 1395 using AJAX endpoint
+[2025-08-01 16:28:23] AJAX response received, size: 6125305 bytes
+[2025-08-01 16:28:23] Found 1314 rows using selector: //table//tr[td and position() > 1]
+[2025-08-01 16:28:23] Extracted 1314 products from current page
+[2025-08-01 16:28:23] Completed scraping. Total products found: 1314
+[2025-08-01 16:28:23] Saving 1314 products to CSV: /home/runner/workspace/vax_prices_2025-08-01_16-28-14.csv
+[2025-08-01 16:28:23] CSV file saved successfully: /home/runner/workspace/vax_prices_2025-08-01_16-28-14.csv
+[2025-08-01 16:32:35] VAX Scraper initialized
+[2025-08-01 16:32:35] Attempting to login to VAX system...
+[2025-08-01 16:32:35] VAX Scraper initialized
+[2025-08-01 16:32:35] Attempting to login to VAX system...
+[2025-08-01 16:32:35] Login page loaded, looking for form structure...
+[2025-08-01 16:32:35] Submitting login form with email: fx@fx-electronics.pl
+[2025-08-01 16:32:35] Login page loaded, looking for form structure...
+[2025-08-01 16:32:35] Submitting login form with email: fx@fx-electronics.pl
+[2025-08-01 16:32:36] Successfully logged in to VAX system
+[2025-08-01 16:32:36] Starting to scrape products from category 1395 using AJAX endpoint
+[2025-08-01 16:32:36] Successfully logged in to VAX system
+[2025-08-01 16:32:36] Starting to scrape products from category 1395 using AJAX endpoint
+[2025-08-01 16:32:47] AJAX response received, size: 6125305 bytes
+[2025-08-01 16:32:47] AJAX response received, size: 6125305 bytes
+[2025-08-01 16:32:47] Found 1314 rows using selector: //table//tr[td and position() > 1]
+[2025-08-01 16:32:47] Extracted 1314 products from current page
+[2025-08-01 16:32:47] Completed scraping. Total products found: 1314
+[2025-08-01 16:32:47] Found 1314 rows using selector: //table//tr[td and position() > 1]
+[2025-08-01 16:32:47] Extracted 1314 products from current page
+[2025-08-01 16:32:47] Completed scraping. Total products found: 1314
+[2025-08-01 16:32:48] Saving 1314 products to CSV: /home/runner/workspace/vax_prices_2025-08-01_16-32-35.csv
+[2025-08-01 16:32:48] CSV file saved successfully: /home/runner/workspace/vax_prices_2025-08-01_16-32-35.csv
+[2025-08-01 16:32:48] Saving 1314 products to CSV: /home/runner/workspace/vax_prices_2025-08-01_16-32-35.csv
+[2025-08-01 16:32:48] CSV file saved successfully: /home/runner/workspace/vax_prices_2025-08-01_16-32-35.csv
+[2025-08-01 16:32:54] VAX Scraper initialized
+[2025-08-01 16:32:54] Attempting to login to VAX system...
+[2025-08-01 16:32:54] VAX Scraper initialized
+[2025-08-01 16:32:54] Attempting to login to VAX system...
+[2025-08-01 16:32:55] Login page loaded, looking for form structure...
+[2025-08-01 16:32:55] Submitting login form with email: fx@fx-electronics.pl
+[2025-08-01 16:32:55] Login page loaded, looking for form structure...
+[2025-08-01 16:32:55] Submitting login form with email: fx@fx-electronics.pl
+[2025-08-01 16:32:56] Successfully logged in to VAX system
+[2025-08-01 16:32:56] Starting to scrape products from category 1395 using AJAX endpoint
+[2025-08-01 16:32:56] Successfully logged in to VAX system
+[2025-08-01 16:32:56] Starting to scrape products from category 1395 using AJAX endpoint
+[2025-08-01 16:33:05] AJAX response received, size: 6125305 bytes
+[2025-08-01 16:33:05] AJAX response received, size: 6125305 bytes
+[2025-08-01 16:33:05] Found 1314 rows using selector: //table//tr[td and position() > 1]
+[2025-08-01 16:33:05] Extracted 1314 products from current page
+[2025-08-01 16:33:05] Found 1314 rows using selector: //table//tr[td and position() > 1]
+[2025-08-01 16:33:05] Completed scraping. Total products found: 1314
+[2025-08-01 16:33:05] Extracted 1314 products from current page
+[2025-08-01 16:33:05] Completed scraping. Total products found: 1314
+[2025-08-01 16:33:06] Saving 1314 products to CSV: /home/runner/workspace/vax_prices_2025-08-01_16-32-54.csv
+[2025-08-01 16:33:06] CSV file saved successfully: /home/runner/workspace/vax_prices_2025-08-01_16-32-54.csv
+[2025-08-01 16:33:06] Saving 1314 products to CSV: /home/runner/workspace/vax_prices_2025-08-01_16-32-54.csv
+[2025-08-01 16:33:06] CSV file saved successfully: /home/runner/workspace/vax_prices_2025-08-01_16-32-54.csv
+[2025-08-01 16:36:12] VAX Scraper initialized
+[2025-08-01 16:36:12] Attempting to login to VAX system...
+[2025-08-01 16:36:13] VAX Scraper initialized
+[2025-08-01 16:36:13] Attempting to login to VAX system...
+[2025-08-01 16:36:13] Login page loaded, looking for form structure...
+[2025-08-01 16:36:13] Submitting login form with email: fx@fx-electronics.pl
+[2025-08-01 16:36:13] Login page loaded, looking for form structure...
+[2025-08-01 16:36:13] Submitting login form with email: fx@fx-electronics.pl
+[2025-08-01 16:36:15] Successfully logged in to VAX system
+[2025-08-01 16:36:15] Starting to scrape products from category 1395 using AJAX endpoint
+[2025-08-01 16:36:15] Successfully logged in to VAX system
+[2025-08-01 16:36:15] Starting to scrape products from category 1395 using AJAX endpoint
+[2025-08-01 16:36:21] AJAX response received, size: 6125305 bytes
+[2025-08-01 16:36:22] Found 1314 rows using selector: //table//tr[td and position() > 1]
+[2025-08-01 16:36:22] Extracted 1314 products from current page
+[2025-08-01 16:36:22] Completed scraping. Total products found: 1314
+[2025-08-01 16:36:22] AJAX response received, size: 6125305 bytes
+[2025-08-01 16:36:22] Saving 1314 products to CSV: /home/runner/workspace/vax_prices_2025-08-01_16-36-12.csv
+[2025-08-01 16:36:22] CSV file saved successfully: /home/runner/workspace/vax_prices_2025-08-01_16-36-12.csv
+[2025-08-01 16:36:22] Found 1314 rows using selector: //table//tr[td and position() > 1]
+[2025-08-01 16:36:22] Extracted 1314 products from current page
+[2025-08-01 16:36:22] Completed scraping. Total products found: 1314
+[2025-08-01 16:36:22] Saving 1314 products to CSV: /home/runner/workspace/vax_prices_2025-08-01_16-36-13.csv
+[2025-08-01 16:36:23] CSV file saved successfully: /home/runner/workspace/vax_prices_2025-08-01_16-36-13.csv
+[2025-08-01 17:37:22] VAX Scraper initialized
+[2025-08-01 17:37:22] Attempting to login to VAX system...
+[2025-08-01 17:37:23] Login page loaded, looking for form structure...
+[2025-08-01 17:37:23] Submitting login form with email: fx@fx-electronics.pl
+[2025-08-01 17:37:24] Successfully logged in to VAX system
+[2025-08-01 17:37:24] Starting to scrape products from category 1395 using AJAX endpoint
+[2025-08-01 17:37:32] AJAX response received, size: 6125304 bytes
+[2025-08-01 17:37:32] Found 1314 rows using selector: //table//tr[td and position() > 1]
+[2025-08-01 17:37:32] Extracted 1314 products from current page
+[2025-08-01 17:37:32] Completed scraping. Total products found: 1314
+[2025-08-01 17:37:33] Saving 1314 products to CSV: /home/runner/workspace/vax_prices_2025-08-01_17-37-22.csv
+[2025-08-01 17:37:33] CSV file saved successfully: /home/runner/workspace/vax_prices_2025-08-01_17-37-22.csv
+[2025-08-01 17:37:33] Saving 1314 products to CSV: awaxprices.csv
+[2025-08-01 17:37:33] CSV file saved successfully: awaxprices.csv
+[2025-08-01 18:16:16] VAX Scraper initialized
+[2025-08-01 18:16:16] Attempting to login to VAX system...
+[2025-08-01 18:16:17] Login page loaded, looking for form structure...
+[2025-08-01 18:16:17] Submitting login form with email: fx@fx-electronics.pl
+[2025-08-01 18:16:18] Successfully logged in to VAX system
+[2025-08-01 18:16:18] Starting to scrape products from category 1395 using AJAX endpoint
+[2025-08-01 18:16:26] AJAX response received, size: 6125308 bytes
+[2025-08-01 18:16:26] Found 1314 rows using selector: //table//tr[td and position() > 1]
+[2025-08-01 18:16:26] Extracted 1314 products from current page
+[2025-08-01 18:16:26] Completed scraping. Total products found: 1314
+[2025-08-01 18:16:26] Saving 1314 products to CSV: /home/runner/workspace/vax_prices_2025-08-01_18-16-16.csv
+[2025-08-01 18:16:26] CSV file saved successfully: /home/runner/workspace/vax_prices_2025-08-01_18-16-16.csv
+[2025-08-01 18:16:26] Saving 1314 products to CSV: awaxprices.csv
+[2025-08-01 18:16:26] CSV file saved successfully: awaxprices.csv
+[2025-08-01 18:17:30] VAX Scraper initialized
+[2025-08-01 18:17:30] Attempting to login to VAX system...
+[2025-08-01 18:17:30] Login page loaded, looking for form structure...
+[2025-08-01 18:17:30] Submitting login form with email: fx@fx-electronics.pl
+[2025-08-01 18:17:31] Successfully logged in to VAX system
+[2025-08-01 18:17:31] Starting to scrape products from category 1395 using AJAX endpoint
+[2025-08-01 18:17:38] AJAX response received, size: 6125305 bytes
+[2025-08-01 18:17:38] Found 1314 rows using selector: //table//tr[td and position() > 1]
+[2025-08-01 18:17:38] Extracted 1314 products from current page
+[2025-08-01 18:17:38] Completed scraping. Total products found: 1314
+[2025-08-01 18:17:38] Saving 1314 products to CSV: /home/runner/workspace/vax_prices_2025-08-01_18-17-30.csv
+[2025-08-01 18:17:56] VAX Scraper initialized
+[2025-08-01 18:17:56] Attempting to login to VAX system...
+[2025-08-01 18:17:57] Login page loaded, looking for form structure...
+[2025-08-01 18:17:57] Submitting login form with email: fx@fx-electronics.pl
+[2025-08-01 18:17:57] Successfully logged in to VAX system
+[2025-08-01 18:17:57] Starting to scrape products from category 1395 using AJAX endpoint
+[2025-08-01 18:18:04] AJAX response received, size: 6125305 bytes
+[2025-08-01 18:18:04] Found 1314 rows using selector: //table//tr[td and position() > 1]
+[2025-08-01 18:18:04] Extracted 1314 products from current page
+[2025-08-01 18:18:04] Completed scraping. Total products found: 1314
+[2025-08-01 18:18:05] Saving 1314 products to CSV: /home/runner/workspace/vax_prices_2025-08-01_18-17-56.csv
+[2025-08-01 18:18:05] CSV file saved successfully: /home/runner/workspace/vax_prices_2025-08-01_18-17-56.csv
+[2025-08-01 18:18:05] Saving 1314 products to CSV: awaxprices.csv
+[2025-08-01 18:18:05] CSV file saved successfully: awaxprices.csv
+[2025-08-01 18:18:28] VAX Scraper initialized
+[2025-08-01 18:18:28] Attempting to login to VAX system...
+[2025-08-01 18:18:29] Login page loaded, looking for form structure...
+[2025-08-01 18:18:29] Submitting login form with email: fx@fx-electronics.pl
+[2025-08-01 18:18:30] Successfully logged in to VAX system
+[2025-08-01 18:18:30] Starting to scrape products from category 1395 using AJAX endpoint
+[2025-08-01 18:18:36] AJAX response received, size: 6125305 bytes
+[2025-08-01 18:18:36] Found 1314 rows using selector: //table//tr[td and position() > 1]
+[2025-08-01 18:18:36] Extracted 1314 products from current page
+[2025-08-01 18:18:36] Completed scraping. Total products found: 1314
+[2025-08-01 18:18:36] Saving 1314 products to CSV: /home/runner/workspace/vax_prices_2025-08-01_18-18-28.csv
+[2025-08-01 18:18:36] CSV file saved successfully: /home/runner/workspace/vax_prices_2025-08-01_18-18-28.csv
+[2025-08-01 18:18:36] Saving 1314 products to CSV: awaxprices.csv
+[2025-08-01 18:18:36] CSV file saved successfully: awaxprices.csv
+[2025-08-01 18:39:54] VAX Scraper initialized
+[2025-08-01 18:39:54] Attempting to login to VAX system...
+[2025-08-01 18:39:55] Login page loaded, looking for form structure...
+[2025-08-01 18:39:55] Submitting login form with email: fx@fx-electronics.pl
+[2025-08-01 18:39:56] Successfully logged in to VAX system
+[2025-08-01 18:39:56] Starting to scrape products from category 1395 using AJAX endpoint
+[2025-08-01 18:40:05] AJAX response received, size: 6125311 bytes
+[2025-08-01 18:40:05] Found 1314 rows using selector: //table//tr[td and position() > 1]
+[2025-08-01 18:40:05] Extracted 1314 products from current page
+[2025-08-01 18:40:05] Completed scraping. Total products found: 1314
+[2025-08-01 18:40:05] Saving 1314 products to CSV: /home/runner/workspace/vax_prices_2025-08-01_18-39-54.csv
+[2025-08-01 18:40:05] CSV file saved successfully: /home/runner/workspace/vax_prices_2025-08-01_18-39-54.csv
+[2025-08-01 18:40:05] Saving 1314 products to CSV: awaxprices.csv
+[2025-08-01 18:40:05] CSV file saved successfully: awaxprices.csv
+[2025-08-01 18:40:27] VAX Scraper initialized
+[2025-08-01 18:40:27] Attempting to login to VAX system...
+[2025-08-01 18:40:28] VAX Scraper initialized
+[2025-08-01 18:40:28] Attempting to login to VAX system...
+[2025-08-01 18:40:28] Login page loaded, looking for form structure...
+[2025-08-01 18:40:28] Submitting login form with email: fx@fx-electronics.pl
+[2025-08-01 18:40:28] Login page loaded, looking for form structure...
+[2025-08-01 18:40:28] Submitting login form with email: fx@fx-electronics.pl
+[2025-08-01 18:40:29] Successfully logged in to VAX system
+[2025-08-01 18:40:29] Starting to scrape products from category 1395 using AJAX endpoint
+[2025-08-01 18:40:29] Successfully logged in to VAX system
+[2025-08-01 18:40:29] Starting to scrape products from category 1395 using AJAX endpoint
+[2025-08-01 18:40:36] AJAX response received, size: 6125310 bytes
+[2025-08-01 18:40:36] Found 1314 rows using selector: //table//tr[td and position() > 1]
+[2025-08-01 18:40:36] Extracted 1314 products from current page
+[2025-08-01 18:40:36] Completed scraping. Total products found: 1314
+[2025-08-01 18:40:36] AJAX response received, size: 6125310 bytes
+[2025-08-01 18:40:36] Saving 1314 products to CSV: /home/runner/workspace/vax_prices_2025-08-01_18-40-27.csv
+[2025-08-01 18:40:36] CSV file saved successfully: /home/runner/workspace/vax_prices_2025-08-01_18-40-27.csv
+[2025-08-01 18:40:36] Saving 1314 products to CSV: awaxprices.csv
+[2025-08-01 18:40:37] CSV file saved successfully: awaxprices.csv
+[2025-08-01 18:40:37] Found 1314 rows using selector: //table//tr[td and position() > 1]
+[2025-08-01 18:40:37] Extracted 1314 products from current page
+[2025-08-01 18:40:37] Completed scraping. Total products found: 1314
+[2025-08-01 18:40:37] Saving 1314 products to CSV: /home/runner/workspace/vax_prices_2025-08-01_18-40-28.csv
+[2025-08-01 18:40:37] CSV file saved successfully: /home/runner/workspace/vax_prices_2025-08-01_18-40-28.csv
+[2025-08-01 18:40:37] Saving 1314 products to CSV: awaxprices.csv
+[2025-08-01 18:40:37] CSV file saved successfully: awaxprices.csv
+[2025-08-01 18:44:25] VAX Scraper initialized
+[2025-08-01 18:44:25] Attempting to login to VAX system...
+[2025-08-01 18:44:26] Login page loaded, looking for form structure...
+[2025-08-01 18:44:26] Submitting login form with email: fx@fx-electronics.pl
+[2025-08-01 18:44:26] Successfully logged in to VAX system
+[2025-08-01 18:44:26] Starting to scrape products from category 1395 using AJAX endpoint
+[2025-08-01 18:44:33] AJAX response received, size: 6125305 bytes
+[2025-08-01 18:44:33] Found 1314 rows using selector: //table//tr[td and position() > 1]
+[2025-08-01 18:44:33] Extracted 1314 products from current page
+[2025-08-01 18:44:33] Completed scraping. Total products found: 1314
+[2025-08-01 18:44:33] Saving 1314 products to CSV: /home/runner/workspace/vax_prices_2025-08-01_18-44-25.csv
+[2025-08-01 18:44:33] CSV file saved successfully: /home/runner/workspace/vax_prices_2025-08-01_18-44-25.csv
+[2025-08-01 18:44:33] Saving 1314 products to CSV: awaxprices.csv
+[2025-08-01 18:44:34] CSV file saved successfully: awaxprices.csv
+[2025-08-01 18:45:02] VAX Scraper initialized
+[2025-08-01 18:45:02] Attempting to login to VAX system...
+[2025-08-01 18:45:03] Login page loaded, looking for form structure...
+[2025-08-01 18:45:03] Submitting login form with email: fx@fx-electronics.pl
+[2025-08-01 18:45:04] Successfully logged in to VAX system
+[2025-08-01 18:45:04] Starting to scrape products from category 1395 using AJAX endpoint
+[2025-08-01 18:45:12] AJAX response received, size: 6125306 bytes
+[2025-08-01 18:45:12] Found 1314 rows using selector: //table//tr[td and position() > 1]
+[2025-08-01 18:45:12] Extracted 1314 products from current page
+[2025-08-01 18:45:12] Completed scraping. Total products found: 1314
+[2025-08-01 18:45:12] Saving 1314 products to CSV: /home/runner/workspace/vax_prices_2025-08-01_18-45-02.csv
+[2025-08-01 18:45:12] CSV file saved successfully: /home/runner/workspace/vax_prices_2025-08-01_18-45-02.csv
+[2025-08-01 18:45:12] Saving 1314 products to CSV: awaxprices.csv
+[2025-08-01 18:45:12] CSV file saved successfully: awaxprices.csv
+[2025-08-01 18:45:46] VAX Scraper initialized
+[2025-08-01 18:45:46] Attempting to login to VAX system...
+[2025-08-01 18:45:47] Login page loaded, looking for form structure...
+[2025-08-01 18:45:47] Submitting login form with email: fx@fx-electronics.pl
+[2025-08-01 18:45:48] Successfully logged in to VAX system
+[2025-08-01 18:45:48] Starting to scrape products from category 1395 using AJAX endpoint
+[2025-08-01 18:45:54] AJAX response received, size: 6125306 bytes
+[2025-08-01 18:45:54] Found 1314 rows using selector: //table//tr[td and position() > 1]
+[2025-08-01 18:45:54] Extracted 1314 products from current page
+[2025-08-01 18:45:54] Completed scraping. Total products found: 1314
+[2025-08-01 18:45:54] Saving 1314 products to CSV: /home/runner/workspace/vax_prices_2025-08-01_18-45-46.csv
+[2025-08-01 18:45:54] CSV file saved successfully: /home/runner/workspace/vax_prices_2025-08-01_18-45-46.csv
+[2025-08-01 18:45:54] Saving 1314 products to CSV: awaxprices.csv
+[2025-08-01 18:45:55] CSV file saved successfully: awaxprices.csv
+[2025-08-01 18:46:56] VAX Scraper initialized
+[2025-08-01 18:46:56] Attempting to login to VAX system...
+[2025-08-01 18:46:57] Login page loaded, looking for form structure...
+[2025-08-01 18:46:57] Submitting login form with email: fx@fx-electronics.pl
+[2025-08-01 18:46:58] Successfully logged in to VAX system
+[2025-08-01 18:46:58] Starting to scrape products from category 1395 using AJAX endpoint
+[2025-08-01 18:47:04] AJAX response received, size: 6125309 bytes
+[2025-08-01 18:47:05] Found 1314 rows using selector: //table//tr[td and position() > 1]
+[2025-08-01 18:47:05] Extracted 1314 products from current page
+[2025-08-01 18:47:05] Completed scraping. Total products found: 1314
+[2025-08-01 18:47:05] Saving 1314 products to CSV: /home/runner/workspace/vax_prices_2025-08-01_18-46-56.csv
+[2025-08-01 18:47:05] CSV file saved successfully: /home/runner/workspace/vax_prices_2025-08-01_18-46-56.csv
+[2025-08-01 18:47:05] Saving 1314 products to CSV: awaxprices.csv
+[2025-08-01 18:47:05] CSV file saved successfully: awaxprices.csv
+[2025-08-01 19:02:13] VAX Scraper initialized
+[2025-08-01 19:02:13] Attempting to login to VAX system...
+[2025-08-01 19:02:14] Login page loaded, looking for form structure...
+[2025-08-01 19:02:14] Submitting login form with email: fx@fx-electronics.pl
+[2025-08-01 19:02:15] Successfully logged in to VAX system
+[2025-08-01 19:02:15] Starting to scrape products from category 1395 using AJAX endpoint
+[2025-08-01 19:02:24] AJAX response received, size: 6125305 bytes
+[2025-08-01 19:02:24] Found 1314 rows using selector: //table//tr[td and position() > 1]
+[2025-08-01 19:02:24] Extracted 1314 products from current page
+[2025-08-01 19:02:24] Completed scraping. Total products found: 1314
+[2025-08-01 19:02:24] Saving 1314 products to CSV: /home/runner/workspace/vax_prices_2025-08-01_19-02-13.csv
+[2025-08-01 19:02:24] CSV file saved successfully: /home/runner/workspace/vax_prices_2025-08-01_19-02-13.csv
+[2025-08-01 19:02:24] Saving 1314 products to CSV: awaxprices.csv
+[2025-08-01 19:02:24] CSV file saved successfully: awaxprices.csv
+[2025-08-01 19:03:13] VAX Scraper initialized
+[2025-08-01 19:03:13] Attempting to login to VAX system...
+[2025-08-01 19:03:13] VAX Scraper initialized
+[2025-08-01 19:03:13] Attempting to login to VAX system...
+[2025-08-01 19:03:14] Login page loaded, looking for form structure...
+[2025-08-01 19:03:14] Submitting login form with email: fx@fx-electronics.pl
+[2025-08-01 19:03:14] Login page loaded, looking for form structure...
+[2025-08-01 19:03:14] Submitting login form with email: fx@fx-electronics.pl
+[2025-08-01 19:03:15] Successfully logged in to VAX system
+[2025-08-01 19:03:15] Starting to scrape products from category 1395 using AJAX endpoint
+[2025-08-01 19:03:15] Successfully logged in to VAX system
+[2025-08-01 19:03:15] Starting to scrape products from category 1395 using AJAX endpoint
+[2025-08-01 19:03:22] AJAX response received, size: 6125305 bytes
+[2025-08-01 19:03:23] Found 1314 rows using selector: //table//tr[td and position() > 1]
+[2025-08-01 19:03:23] Extracted 1314 products from current page
+[2025-08-01 19:03:23] Completed scraping. Total products found: 1314
+[2025-08-01 19:03:23] AJAX response received, size: 6125305 bytes
+[2025-08-01 19:03:23] Saving 1314 products to CSV: /home/runner/workspace/vax_prices_2025-08-01_19-03-13.csv
+[2025-08-01 19:03:23] CSV file saved successfully: /home/runner/workspace/vax_prices_2025-08-01_19-03-13.csv
+[2025-08-01 19:03:23] Saving 1314 products to CSV: awaxprices.csv
+[2025-08-01 19:03:23] CSV file saved successfully: awaxprices.csv
+[2025-08-01 19:03:23] Found 1314 rows using selector: //table//tr[td and position() > 1]
+[2025-08-01 19:03:23] Extracted 1314 products from current page
+[2025-08-01 19:03:23] Completed scraping. Total products found: 1314
+[2025-08-01 19:03:23] Saving 1314 products to CSV: /home/runner/workspace/vax_prices_2025-08-01_19-03-13.csv
+[2025-08-01 19:03:23] CSV file saved successfully: /home/runner/workspace/vax_prices_2025-08-01_19-03-13.csv
+[2025-08-01 19:03:23] Saving 1314 products to CSV: awaxprices.csv
+[2025-08-01 19:03:23] CSV file saved successfully: awaxprices.csv
+[2025-08-01 19:04:48] VAX Scraper initialized
+[2025-08-01 19:04:48] Attempting to login to VAX system...
+[2025-08-01 19:04:48] VAX Scraper initialized
+[2025-08-01 19:04:48] Attempting to login to VAX system...
+[2025-08-01 19:04:49] Login page loaded, looking for form structure...
+[2025-08-01 19:04:49] Submitting login form with email: fx@fx-electronics.pl
+[2025-08-01 19:04:49] Login page loaded, looking for form structure...
+[2025-08-01 19:04:49] Submitting login form with email: fx@fx-electronics.pl
+[2025-08-01 19:04:50] Successfully logged in to VAX system
+[2025-08-01 19:04:50] Starting to scrape products from category 1395 using AJAX endpoint
+[2025-08-01 19:04:50] Successfully logged in to VAX system
+[2025-08-01 19:04:50] Starting to scrape products from category 1395 using AJAX endpoint
+[2025-08-01 19:04:57] AJAX response received, size: 6125305 bytes
+[2025-08-01 19:04:57] Found 1314 rows using selector: //table//tr[td and position() > 1]
+[2025-08-01 19:04:57] Extracted 1314 products from current page
+[2025-08-01 19:04:57] Completed scraping. Total products found: 1314
+[2025-08-01 19:04:57] Saving 1314 products to CSV: /home/runner/workspace/vax_prices_2025-08-01_19-04-48.csv
+[2025-08-01 19:04:57] CSV file saved successfully: /home/runner/workspace/vax_prices_2025-08-01_19-04-48.csv
+[2025-08-01 19:04:57] Saving 1314 products to CSV: awaxprices.csv
+[2025-08-01 19:04:58] CSV file saved successfully: awaxprices.csv
+[2025-08-01 19:04:58] AJAX response received, size: 6125305 bytes
+[2025-08-01 19:04:58] Found 1314 rows using selector: //table//tr[td and position() > 1]
+[2025-08-01 19:04:58] Extracted 1314 products from current page
+[2025-08-01 19:04:58] Completed scraping. Total products found: 1314
+[2025-08-01 19:04:58] Saving 1314 products to CSV: /home/runner/workspace/vax_prices_2025-08-01_19-04-48.csv
+[2025-08-01 19:04:58] CSV file saved successfully: /home/runner/workspace/vax_prices_2025-08-01_19-04-48.csv
+[2025-08-01 19:04:58] Saving 1314 products to CSV: awaxprices.csv
+[2025-08-01 19:04:58] CSV file saved successfully: awaxprices.csv
+[2025-08-01 19:06:27] VAX Scraper initialized
+[2025-08-01 19:06:27] Attempting to login to VAX system...
+[2025-08-01 19:06:27] VAX Scraper initialized
+[2025-08-01 19:06:27] Attempting to login to VAX system...
+[2025-08-01 19:06:28] Login page loaded, looking for form structure...
+[2025-08-01 19:06:28] Submitting login form with email: fx@fx-electronics.pl
+[2025-08-01 19:06:28] Login page loaded, looking for form structure...
+[2025-08-01 19:06:28] Submitting login form with email: fx@fx-electronics.pl
+[2025-08-01 19:06:28] Successfully logged in to VAX system
+[2025-08-01 19:06:28] Starting to scrape products from category 1395 using AJAX endpoint
+[2025-08-01 19:06:28] Successfully logged in to VAX system
+[2025-08-01 19:06:28] Starting to scrape products from category 1395 using AJAX endpoint
+[2025-08-01 19:06:35] AJAX response received, size: 6125305 bytes
+[2025-08-01 19:06:35] Found 1314 rows using selector: //table//tr[td and position() > 1]
+[2025-08-01 19:06:35] Extracted 1314 products from current page
+[2025-08-01 19:06:35] Completed scraping. Total products found: 1314
+[2025-08-01 19:06:35] AJAX response received, size: 6125305 bytes
+[2025-08-01 19:06:35] Saving 1314 products to CSV: /home/runner/workspace/vax_prices_2025-08-01_19-06-27.csv
+[2025-08-01 19:06:35] CSV file saved successfully: /home/runner/workspace/vax_prices_2025-08-01_19-06-27.csv
+[2025-08-01 19:06:35] Saving 1314 products to CSV: awaxprices.csv
+[2025-08-01 19:06:35] CSV file saved successfully: awaxprices.csv
+[2025-08-01 19:06:35] Found 1314 rows using selector: //table//tr[td and position() > 1]
+[2025-08-01 19:06:35] Extracted 1314 products from current page
+[2025-08-01 19:06:35] Completed scraping. Total products found: 1314
+[2025-08-01 19:06:35] Saving 1314 products to CSV: /home/runner/workspace/vax_prices_2025-08-01_19-06-27.csv
+[2025-08-01 19:06:35] CSV file saved successfully: /home/runner/workspace/vax_prices_2025-08-01_19-06-27.csv
+[2025-08-01 19:06:35] Saving 1314 products to CSV: awaxprices.csv
+[2025-08-01 19:06:36] CSV file saved successfully: awaxprices.csv
+[2025-08-01 19:11:26] VAX Scraper initialized
+[2025-08-01 19:11:26] Attempting to login to VAX system...
+[2025-08-01 19:11:27] Login page loaded, looking for form structure...
+[2025-08-01 19:11:27] Submitting login form with email: fx@fx-electronics.pl
+[2025-08-01 19:11:27] Successfully logged in to VAX system
+[2025-08-01 19:11:27] Starting to scrape products from category 1395 using AJAX endpoint
+[2025-08-01 19:11:34] AJAX response received, size: 6125305 bytes
+[2025-08-01 19:11:34] Found 1314 rows using selector: //table//tr[td and position() > 1]
+[2025-08-01 19:11:34] Extracted 1314 products from current page
+[2025-08-01 19:11:34] Completed scraping. Total products found: 1314
+[2025-08-01 19:11:34] Saving 1314 products to CSV: /home/runner/workspace/vax_prices_2025-08-01_19-11-26.csv
+[2025-08-01 19:11:35] CSV file saved successfully: /home/runner/workspace/vax_prices_2025-08-01_19-11-26.csv
+[2025-08-01 19:11:35] Saving 1314 products to CSV: awaxprices.csv
+[2025-08-01 19:11:35] CSV file saved successfully: awaxprices.csv
+[2025-08-03 12:37:50] VAX Scraper initialized
+[2025-08-03 12:37:50] Attempting to login to VAX system...
+[2025-08-03 12:37:50] VAX Scraper initialized
+[2025-08-03 12:37:50] Attempting to login to VAX system...
+[2025-08-03 12:37:51] Login page loaded, looking for form structure...
+[2025-08-03 12:37:51] Submitting login form with email: fx@fx-electronics.pl
+[2025-08-03 12:37:51] Login page loaded, looking for form structure...
+[2025-08-03 12:37:51] Submitting login form with email: fx@fx-electronics.pl
+[2025-08-03 12:37:52] Successfully logged in to VAX system
+[2025-08-03 12:37:52] Starting to scrape products from category 1395 using AJAX endpoint
+[2025-08-03 12:37:52] Successfully logged in to VAX system
+[2025-08-03 12:37:52] Starting to scrape products from category 1395 using AJAX endpoint
+[2025-08-03 12:37:59] AJAX response received, size: 6125305 bytes
+[2025-08-03 12:37:59] Found 1314 rows using selector: //table//tr[td and position() > 1]
+[2025-08-03 12:37:59] Extracted 1314 products from current page
+[2025-08-03 12:37:59] Completed scraping. Total products found: 1314
+[2025-08-03 12:37:59] Saving 1314 products to CSV: /home/runner/workspace/vax_prices_2025-08-03_12-37-50.csv
+[2025-08-03 12:37:59] CSV file saved successfully: /home/runner/workspace/vax_prices_2025-08-03_12-37-50.csv
+[2025-08-03 12:37:59] Saving 1314 products to CSV: awaxprices.csv
+[2025-08-03 12:37:59] AJAX response received, size: 6125305 bytes
+[2025-08-03 12:37:59] CSV file saved successfully: awaxprices.csv
+[2025-08-03 12:38:00] Found 1314 rows using selector: //table//tr[td and position() > 1]
+[2025-08-03 12:38:00] Extracted 1314 products from current page
+[2025-08-03 12:38:00] Completed scraping. Total products found: 1314
+[2025-08-03 12:38:00] Saving 1314 products to CSV: /home/runner/workspace/vax_prices_2025-08-03_12-37-50.csv
+[2025-08-03 12:38:00] CSV file saved successfully: /home/runner/workspace/vax_prices_2025-08-03_12-37-50.csv
+[2025-08-03 12:38:00] Saving 1314 products to CSV: awaxprices.csv
+[2025-08-03 12:38:00] CSV file saved successfully: awaxprices.csv
+[2025-08-03 12:38:32] VAX Scraper initialized
+[2025-08-03 12:38:32] Attempting to login to VAX system...
+[2025-08-03 12:38:32] VAX Scraper initialized
+[2025-08-03 12:38:32] Attempting to login to VAX system...
+[2025-08-03 12:38:32] Login page loaded, looking for form structure...
+[2025-08-03 12:38:32] Submitting login form with email: fx@fx-electronics.pl
+[2025-08-03 12:38:32] Login page loaded, looking for form structure...
+[2025-08-03 12:38:32] Submitting login form with email: fx@fx-electronics.pl
+[2025-08-03 12:38:33] Successfully logged in to VAX system
+[2025-08-03 12:38:33] Starting to scrape products from category 1395 using AJAX endpoint
+[2025-08-03 12:38:33] Successfully logged in to VAX system
+[2025-08-03 12:38:33] Starting to scrape products from category 1395 using AJAX endpoint
+[2025-08-03 12:38:39] AJAX response received, size: 6125305 bytes
+[2025-08-03 12:38:39] Found 1314 rows using selector: //table//tr[td and position() > 1]
+[2025-08-03 12:38:39] Extracted 1314 products from current page
+[2025-08-03 12:38:39] Completed scraping. Total products found: 1314
+[2025-08-03 12:38:39] Saving 1314 products to CSV: /home/runner/workspace/vax_prices_2025-08-03_12-38-32.csv
+[2025-08-03 12:38:39] CSV file saved successfully: /home/runner/workspace/vax_prices_2025-08-03_12-38-32.csv
+[2025-08-03 12:38:39] Saving 1314 products to CSV: awaxprices.csv
+[2025-08-03 12:38:39] CSV file saved successfully: awaxprices.csv
+[2025-08-03 12:38:39] AJAX response received, size: 6125305 bytes
+[2025-08-03 12:38:40] Found 1314 rows using selector: //table//tr[td and position() > 1]
+[2025-08-03 12:38:40] Extracted 1314 products from current page
+[2025-08-03 12:38:40] Completed scraping. Total products found: 1314
+[2025-08-03 12:38:40] Saving 1314 products to CSV: /home/runner/workspace/vax_prices_2025-08-03_12-38-32.csv
+[2025-08-03 12:38:40] CSV file saved successfully: /home/runner/workspace/vax_prices_2025-08-03_12-38-32.csv
+[2025-08-03 12:38:40] Saving 1314 products to CSV: awaxprices.csv
+[2025-08-03 12:38:40] CSV file saved successfully: awaxprices.csv
+[2025-08-03 12:40:36] VAX Scraper initialized
+[2025-08-03 12:40:36] Attempting to login to VAX system...
+[2025-08-03 12:40:37] Login page loaded, looking for form structure...
+[2025-08-03 12:40:37] Submitting login form with email: fx@fx-electronics.pl
+[2025-08-03 12:40:38] Successfully logged in to VAX system
+[2025-08-03 12:40:38] Starting to scrape products from category 1395 using AJAX endpoint
+[2025-08-03 12:40:44] AJAX response received, size: 6125305 bytes
+[2025-08-03 12:40:44] Found 1314 rows using selector: //table//tr[td and position() > 1]
+[2025-08-03 12:40:44] Extracted 1314 products from current page
+[2025-08-03 12:40:44] Completed scraping. Total products found: 1314
+[2025-08-03 12:40:44] Saving 1314 products to CSV: /home/runner/workspace/vax_prices_2025-08-03_12-40-36.csv
+[2025-08-03 12:40:44] CSV file saved successfully: /home/runner/workspace/vax_prices_2025-08-03_12-40-36.csv
+[2025-08-03 12:40:44] Saving 1314 products to CSV: awaxprices.csv
+[2025-08-03 12:40:44] CSV file saved successfully: awaxprices.csv
+[2025-08-03 12:43:38] VAX Scraper initialized
+[2025-08-03 12:43:38] Attempting to login to VAX system...
+[2025-08-03 12:43:38] VAX Scraper initialized
+[2025-08-03 12:43:38] Attempting to login to VAX system...
+[2025-08-03 12:43:39] Login page loaded, looking for form structure...
+[2025-08-03 12:43:39] Submitting login form with email: fx@fx-electronics.pl
+[2025-08-03 12:43:39] Login page loaded, looking for form structure...
+[2025-08-03 12:43:39] Submitting login form with email: fx@fx-electronics.pl
+[2025-08-03 12:43:40] Successfully logged in to VAX system
+[2025-08-03 12:43:40] Starting to scrape products from category 1395 using AJAX endpoint
+[2025-08-03 12:43:40] Successfully logged in to VAX system
+[2025-08-03 12:43:40] Starting to scrape products from category 1395 using AJAX endpoint
+[2025-08-03 12:43:45] AJAX response received, size: 6125305 bytes
+[2025-08-03 12:43:45] AJAX response received, size: 6125305 bytes
+[2025-08-03 12:43:45] Found 1314 rows using selector: //table//tr[td and position() > 1]
+[2025-08-03 12:43:45] Extracted 1314 products from current page
+[2025-08-03 12:43:45] Completed scraping. Total products found: 1314
+[2025-08-03 12:43:46] Found 1314 rows using selector: //table//tr[td and position() > 1]
+[2025-08-03 12:43:46] Extracted 1314 products from current page
+[2025-08-03 12:43:46] Completed scraping. Total products found: 1314
+[2025-08-03 12:43:46] Saving 1314 products to CSV: /home/runner/workspace/vax_prices_2025-08-03_12-43-38.csv
+[2025-08-03 12:43:46] Saving 1314 products to CSV: /home/runner/workspace/vax_prices_2025-08-03_12-43-38.csv
+[2025-08-03 12:43:46] CSV file saved successfully: /home/runner/workspace/vax_prices_2025-08-03_12-43-38.csv
+[2025-08-03 12:43:46] Saving 1314 products to CSV: awaxprices.csv
+[2025-08-03 12:43:46] CSV file saved successfully: /home/runner/workspace/vax_prices_2025-08-03_12-43-38.csv
+[2025-08-03 12:43:46] Saving 1314 products to CSV: awaxprices.csv
+[2025-08-03 12:43:46] CSV file saved successfully: awaxprices.csv
+[2025-08-03 12:43:46] CSV file saved successfully: awaxprices.csv
+[2025-08-04 05:02:10] VAX Scraper initialized
+[2025-08-04 05:02:10] Attempting to login to VAX system...
+[2025-08-04 05:02:10] VAX Scraper initialized
+[2025-08-04 05:02:10] Attempting to login to VAX system...
+[2025-08-04 05:02:11] Login page loaded, looking for form structure...
+[2025-08-04 05:02:11] Submitting login form with email: fx@fx-electronics.pl
+[2025-08-04 05:02:11] Login page loaded, looking for form structure...
+[2025-08-04 05:02:11] Submitting login form with email: fx@fx-electronics.pl
+[2025-08-04 05:02:12] Successfully logged in to VAX system
+[2025-08-04 05:02:12] Starting to scrape products from category 1395 using AJAX endpoint
+[2025-08-04 05:02:12] Successfully logged in to VAX system
+[2025-08-04 05:02:12] Starting to scrape products from category 1395 using AJAX endpoint
+[2025-08-04 05:02:22] AJAX response received, size: 6125305 bytes
+[2025-08-04 05:02:22] AJAX response received, size: 6125305 bytes
+[2025-08-04 05:02:22] Found 1314 rows using selector: //table//tr[td and position() > 1]
+[2025-08-04 05:02:22] Extracted 1314 products from current page
+[2025-08-04 05:02:22] Completed scraping. Total products found: 1314
+[2025-08-04 05:02:22] Found 1314 rows using selector: //table//tr[td and position() > 1]
+[2025-08-04 05:02:22] Extracted 1314 products from current page
+[2025-08-04 05:02:22] Completed scraping. Total products found: 1314
+[2025-08-04 05:02:23] Saving 1314 products to CSV: /home/runner/workspace/vax_prices_2025-08-04_05-02-10.csv
+[2025-08-04 05:02:23] CSV file saved successfully: /home/runner/workspace/vax_prices_2025-08-04_05-02-10.csv
+[2025-08-04 05:02:23] Saving 1314 products to CSV: awaxprices.csv
+[2025-08-04 05:02:23] Saving 1314 products to CSV: /home/runner/workspace/vax_prices_2025-08-04_05-02-10.csv
+[2025-08-04 05:02:23] CSV file saved successfully: awaxprices.csv
+[2025-08-04 05:02:23] CSV file saved successfully: /home/runner/workspace/vax_prices_2025-08-04_05-02-10.csv
+[2025-08-04 05:02:23] Saving 1314 products to CSV: awaxprices.csv
+[2025-08-04 05:02:23] CSV file saved successfully: awaxprices.csv
+[2025-08-04 15:54:14] VAX Scraper initialized
+[2025-08-04 15:54:14] Attempting to login to VAX system...
+[2025-08-04 15:54:15] Login page loaded, looking for form structure...
+[2025-08-04 15:54:15] Submitting login form with email: fx@fx-electronics.pl
+[2025-08-04 15:54:16] Successfully logged in to VAX system
+[2025-08-04 15:54:16] Starting to scrape products from category 1395 using AJAX endpoint
+[2025-08-04 15:54:24] AJAX response received, size: 6125325 bytes
+[2025-08-04 15:54:24] Found 1314 rows using selector: //table//tr[td and position() > 1]
+[2025-08-04 15:54:24] Extracted 1314 products from current page
+[2025-08-04 15:54:24] Completed scraping. Total products found: 1314
+[2025-08-04 15:54:25] Saving 1314 products to CSV: /home/runner/workspace/vax_prices_2025-08-04_15-54-14.csv
+[2025-08-04 15:54:25] CSV file saved successfully: /home/runner/workspace/vax_prices_2025-08-04_15-54-14.csv
+[2025-08-04 15:54:25] Saving 1314 products to CSV: awaxprices.csv
+[2025-08-04 15:54:25] CSV file saved successfully: awaxprices.csv 
